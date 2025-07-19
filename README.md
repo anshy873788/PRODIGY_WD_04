@@ -26,7 +26,7 @@ This project is a dynamic **Weather Dashboard** web application built using **HT
 
 ### 1. Open the App
 
-Just open the `index.html` file in your browser.
+Just open the `task04.html` file in your browser.
 
 ### 2. Search by City
 
